@@ -1,4 +1,4 @@
-# 2 - Escreva um programa que mostre os números de 1 até um numero
+# O programa mostra os números de 1 até um numero
 # digitado pelo usuário, mas apenas os números impares.
 n = int(input("Digite um número: "))
 x = 1
